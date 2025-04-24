@@ -39,19 +39,19 @@ This project analyzes Amazon's discount strategies across various product catego
 
 ## Analysis sections:
 1. **Distribution of Discount - Discount category**
-   ![alt text](download.png)
+   ![alt text](image.png)
 2. **Discount by main category**
-   ![alt text](download-1.png)
+   ![alt text](image-1.png)
 3. **Correlation between discounts and ratings**
-   ![alt text](download-2.png)
-   ![alt text](download-3.png)
+   ![alt text](image-2.png)
+   ![alt text](image-3.png)
 4. **Discount and sale volumn**
-   ![alt text](download-4.png)
+   ![alt text](image-4.png)
 5. **High ticket items**
-   ![alt text](download-5.png)
+   ![alt text](image-5.png)
 6. **Customer feedback**
-   ![alt text](download-6.png)
-   ![alt text](download-7.png)
+   ![alt text](image-6.png)
+   ![alt text](image-7.png)
 
 ## Recommendations
 1. **Optimize Discount Strategies**:
